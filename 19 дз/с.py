@@ -23,3 +23,4 @@ def replace_roman_num_with_int(input_string):
 input_string = "В MMXIIII году в школе номер CXXIII выпустились XI классов."
 output_string = replace_roman_num_with_int(input_string)
 print(output_string)
+

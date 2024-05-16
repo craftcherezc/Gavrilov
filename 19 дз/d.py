@@ -18,3 +18,4 @@ def encode_string(s):
 input_string = input("вводи строку: \n")
 encode_string = encode_string(input_string)
 print("строка:", encode_string)
+
